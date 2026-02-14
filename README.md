@@ -32,7 +32,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/)
 
 - Live Site URL: [https://fem-solutions.github.io/ping-coming-soon-page](https://fem-solutions.github.io/ping-coming-soon-page)
 
